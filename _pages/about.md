@@ -23,24 +23,23 @@ My research focuses on large language model post-training, reinforcement learnin
 
 
 # 🔥 News
-- *2026.05*: &nbsp;Submitted our work on Positive-Only Policy Optimization for LLM mathematical reasoning post-training.
-- *2026.03*: &nbsp;Completed the FinTech Agentic QA project, studying single-agent and multi-agent financial question answering systems.
-- *2024.09*: &nbsp;Our work on ARIMA and LSTM-based forecasting for the new energy electric vehicle industry was published at ICDACAI 2024.
+- *2026.05*: [ICML'26] POPO is accepted by ICML 2026 Workshop DEMO.
+
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Improve Reasoning Ability by Reinforcing Only from Positive Rollouts**
+**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**
 
 **Mingwei Xu**, Hao Fang
 
 - Proposes POPO, a positive-only policy optimization framework for RLVR-based LLM mathematical reasoning post-training. The method uses bounded importance weights, a Siamese policy network, EMA momentum anchoring, and representation-space similarity constraints to improve training stability.
+
 </div>
 </div>
 
-- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks**, Mingwei Xu, Hao Deng, Haowei Xu, Yongqi Zhang, **ICDACAI 2024**
 
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
@@ -56,14 +55,9 @@ My research focuses on large language model post-training, reinforcement learnin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2025.11 - 2026.05*, Paul G. Allen Center for Computer Science & Engineering, University of Washington, LLM Training Researcher
+- *202.11 - 2026.05*, 
 - *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
 
-# 💻 Selected Projects
+# 🚀 Selected Projects
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
-- **OfficeQA Agent System**: Built agentic workflows for enterprise document parsing, retrieval-augmented generation, and reasoning over long documents, tables, and tool-use scenarios.
 
-# 🛠 Skills
-- **Languages**: Python, C++, C, Java
-- **ML / AI**: PyTorch, Hugging Face, TRL, verl, LoRA, DeepSpeed, FSDP, vLLM, LangChain, agent systems
-- **Tools / Platforms**: Git, Linux, Docker, MATLAB, STM32, Raspberry Pi, Infineon TC264, embedded systems
