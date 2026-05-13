@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingwei Xu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Personal website of Mingwei Xu, focusing on AI Agent Architecture and LLMs. "
 repository               : "mxmw03/mxmw03.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Mingwei Xu"
   avatar           : "images/web-app-manifest-512x512.png"
   bio              : "Lorem ipsum College"
   location         : "Beijing, China"
