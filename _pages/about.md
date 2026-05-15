@@ -28,12 +28,12 @@ My research focuses on large language model post-training, reinforcement learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://arxiv.org/abs/2605.06650">arXiv:2605.06650</a></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://arxiv.org/abs/2605.06650">arXiv:2605.06650</a> · <a href="https://github.com/momo1443/colm2026-POPO">Code</a></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/abs/2605.06650)
 
-**Mingwei Xu**, Hao Fang
+**Mingwei Xu**, Hao Fang \| [Code](https://github.com/momo1443/colm2026-POPO)
 
 - Proposes POPO (Positive-Only Policy Optimization) for RLVR: bounded importance sampling over positive rollouts, siamese policy with momentum anchoring, and a bounded similarity penalty in representation space instead of KL.
 
