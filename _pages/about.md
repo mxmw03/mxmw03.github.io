@@ -41,7 +41,7 @@ My research focuses on large language model post-training, reinforcement learnin
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Vedio.png' alt="AV-Phys" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Do Joint Audio-Video Generation Models Understand Physics?**](https://zijuncui.com/AV-Phys/)
+[**Do Joint Audio-Video Generation Models Understand Physics?**](https://arxiv.org/abs/2605.07061)
 
 Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
@@ -67,7 +67,6 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://zij
 
 # 🚀 Selected Projects
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
-- **OfficeQA Agent System**: Built agentic workflows for enterprise document parsing, retrieval-augmented generation, and reasoning over long documents, tables, and tool-use scenarios.
 
 # 🛠 Skills
 - **Languages**: Python, C++, C, Java
