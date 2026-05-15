@@ -35,12 +35,6 @@ My research focuses on large language model post-training, reinforcement learnin
 
 **Mingwei Xu**, Hao Fang \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
-- Proposes POPO (Positive-Only Policy Optimization) for RLVR: bounded importance sampling over positive rollouts, siamese policy with momentum anchoring, and a bounded similarity penalty in representation space instead of KL.
-
-</div>
-</div>
-
-- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks**, **Mingwei Xu**, Hao Deng, Haowei Xu, Yongqi Zhang, **ICDACAI 2024**
 
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
