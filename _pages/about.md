@@ -38,6 +38,16 @@ My research focuses on large language model post-training, reinforcement learnin
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Vedio.png' alt="AV-Phys" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Do Joint Audio-Video Generation Models Understand Physics?**](https://zijuncui.com/AV-Phys/)
+
+Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
 - *2025* Outstanding Graduate, Zhejiang University of Technology
