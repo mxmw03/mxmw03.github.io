@@ -28,13 +28,15 @@ My research focuses on large language model post-training, reinforcement learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://arxiv.org/abs/2605.06650">arXiv:2605.06650</a> · <a href="https://github.com/momo1443/colm2026-POPO">Code</a></div><img src='images/POPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/POPO.png' alt="POPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/abs/2605.06650)
 
 **Mingwei Xu**, Hao Fang \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
