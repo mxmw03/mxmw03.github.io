@@ -19,7 +19,7 @@ redirect_from:
 
 I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington. Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology.
 
-My research focuses on large language model post-training, reinforcement learning for verifiable reasoning (RLVR), multimodal large models, and agent systems. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. I am currently working on agentic systems for the OfficeQA benchmark, with an emphasis on document understanding, retrieval-augmented reasoning, and enterprise-facing workflow automation.
+My research focuses on large language model post-training, reinforcement learning, multimodal large models, and agent systems. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. I am currently working on agentic systems for the OfficeQA benchmark, with an emphasis on document understanding, retrieval-augmented reasoning, and enterprise-facing workflow automation.
 
 
 # 🔥 News
@@ -28,19 +28,19 @@ My research focuses on large language model post-training, reinforcement learnin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://arxiv.org/abs/2605.06650">arXiv:2605.06650</a></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**
+[**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/abs/2605.06650)
 
 **Mingwei Xu**, Hao Fang
 
-- Proposes POPO, a positive-only policy optimization framework for RLVR-based LLM mathematical reasoning post-training. The method uses bounded importance weights, a Siamese policy network, EMA momentum anchoring, and representation-space similarity constraints to improve training stability.
+- Proposes POPO (Positive-Only Policy Optimization) for RLVR: bounded importance sampling over positive rollouts, siamese policy with momentum anchoring, and a bounded similarity penalty in representation space instead of KL.
 
 </div>
 </div>
 
-- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks**, Mingwei Xu, Hao Deng, Haowei Xu, Yongqi Zhang, **ICDACAI 2024**
+- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks**, **Mingwei Xu**, Hao Deng, Haowei Xu, Yongqi Zhang, **ICDACAI 2024**
 
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
