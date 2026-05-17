@@ -52,7 +52,8 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://arx
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Brain.png' alt="POPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [**Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation**](https://www.mdpi.com/1424-8220/26/1/211)
 
