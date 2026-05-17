@@ -56,7 +56,9 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
+            width: 100%;
+            max-width: 260px;
+            aspect-ratio: 4 / 3;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
