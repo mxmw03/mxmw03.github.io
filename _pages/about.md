@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington. Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology.
+I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington. 
+
+Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://homepage.zjut.edu.cn/fhguo/) and worked on automatic control and hardware design. During my undergraduate studies, I won the National First Prize and National Runner-up Award in the National College Student Intelligent Car Competition, the National Third Prize in the National College Student Robot Competition Underwater Robot Contest, and the National Third Prize in the National Undergraduate Electronics Design Contest, among other honors.
+
+
 
 My research focuses on large language model post-training, reinforcement learning, multimodal large models, and agent systems. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. I am currently working on agentic systems for the OfficeQA benchmark, with an emphasis on document understanding, retrieval-augmented reasoning, and enterprise-facing workflow automation.
 
