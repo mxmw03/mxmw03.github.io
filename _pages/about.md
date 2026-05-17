@@ -33,7 +33,7 @@ My research focuses on large language model post-training, reinforcement learnin
 
 [**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/pdf/2605.06650)
 
-**Mingwei Xu**, Hao Fang \| <a href="https://arxiv.org/abs/2605.06650"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> Paper</a> \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+**Mingwei Xu**, Hao Fang \| <a href="https://arxiv.org/abs/2605.06650"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
 </div>
 </div>
@@ -43,7 +43,7 @@ My research focuses on large language model post-training, reinforcement learnin
 
 [**Do Joint Audio-Video Generation Models Understand Physics?**](https://arxiv.org/pdf/2605.07061)
 
-Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://arxiv.org/abs/2605.07061"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> Paper</a> \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://arxiv.org/abs/2605.07061"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
 </div>
 </div>
