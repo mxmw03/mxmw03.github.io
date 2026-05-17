@@ -17,17 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage!👋🏻I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington. 
+Welcome to my homepage! 👋🏻 I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington.
 
-Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://homepage.zjut.edu.cn/fhguo/) and worked on automatic control and hardware design.
+Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://homepage.zjut.edu.cn/fhguo/) and worked on automatic control and hardware design. After graduation, I worked with [Dr. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at Zhejiang Lab, contributing to research on EEG signal analysis and Brain-Inspired Intelligence.
 
-My research focuses on large language model post-training, reinforcement learning, multimodal large models, and agent systems. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. 
+My research focuses on **large language model post-training**, **reinforcement learning**, **multimodal large models**, and **agent systems**. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. 
 
 <span style="color: red;">I am actively seeking 27 Fall PhD opportunities!</span>
 
 
 # 🔥 News
-- *2026.05*: [ICML'26] POPO is accepted by ICML 2026 Workshop DEMO.
+- *2026.05* 🎉: [ICML'26] POPO is accepted by ICML 2026 Workshop DEMO.
+
+# 📖 Educations
+- *2025.09 - Present*, University of Washington, M.S. in Electrical and Computer Engineering, College of Electrical and Computer Engineering
+- *2021.09 - 2025.06*, Zhejiang University of Technology, B.S. in Automation, College of Information Engineering
 
 
 # 📝 Publications 
@@ -47,7 +51,7 @@ My research focuses on large language model post-training, reinforcement learnin
 
 [**Do Joint Audio-Video Generation Models Understand Physics?**](https://arxiv.org/pdf/2605.07061)
 
-Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://arxiv.org/abs/2605.07061"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, Jiageng Liu，Zexin Xu，Weiguo Pian，Shijian Deng，Feiyu Du，Chenming Ge，Yapeng Tian \| <a href="https://arxiv.org/abs/2605.07061"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
 </div>
 </div>
@@ -57,7 +61,7 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, et al. \| <a href="https://arx
 
 [**Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation**](https://www.mdpi.com/1424-8220/26/1/211)
 
-Jianhua Li, Hui Yang, **Mingwei Xu**, et al. \| <a href="https://www.mdpi.com/1424-8220/26/1/211"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://github.com/mxmw03/EEG_Functional_constipation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Yan Hao，Fangchao Wu，Weishuyi Ruan，Ying Zhang，Zhengzhe Cui，Yina Wei \| <a href="https://www.mdpi.com/1424-8220/26/1/211"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://github.com/mxmw03/EEG_Functional_constipation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
 </div>
 </div>
@@ -67,9 +71,6 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, et al. \| <a href="https://www.mdpi.com/14
 - *2025* Outstanding Graduate, Zhejiang University of Technology
 - *2021 - 2025* Zhejiang Provincial Government Scholarship, First-Class Outstanding Student Scholarship, and Innovation and Entrepreneurship Scholarship
 
-# 📖 Educations
-- *2025.09 - Present*, University of Washington, M.S. in Electrical and Computer Engineering, College of Electrical and Computer Engineering
-- *2021.09 - 2025.06*, Zhejiang University of Technology, B.S. in Automation, College of Information Engineering
 
 # 💻 Internships
 - *2025.11 - 2026.05*, Paul G. Allen Center for Computer Science & Engineering, University of Washington, LLM Training Researcher
