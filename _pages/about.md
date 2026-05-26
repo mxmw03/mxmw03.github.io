@@ -27,7 +27,7 @@ My research focuses on **large language model post-training**, **reinforcement l
 
 
 # 🔥 News
-- *2026.05* 🎉: [ICML'26] *POPO* is accepted by **ICML 2026 Workshop DEMO**.
+- *2026.05* 🎉: [ICML 26] *Improve Reasoning Ability by Reinforcing Only from Positive Rollouts （POPO）* is accepted by **ICML 2026 Workshop DEMO**.
 - *2025.12* 🎉: [JCR Q2] *Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation* is accepted by **Sensors**.
 
 # 📖 Educations
