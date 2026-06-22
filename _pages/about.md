@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage! 👋🏻 I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington.
 
-Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://homepage.zjut.edu.cn/fhguo/) and worked on automatic control and hardware design. After graduation, I was advised by [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at Zhejiang Lab, contributing to research on EEG signal analysis and Brain-Inspired Intelligence.
+Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control and hardware design. After graduation, I was advised by [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at Zhejiang Lab, contributing to research on EEG signal analysis and Brain-Inspired Intelligence.
 
 My research focuses on **large language model post-training**, **reinforcement learning**, **multimodal large models**, and **agent systems**. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. 
 
