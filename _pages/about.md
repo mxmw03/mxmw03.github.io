@@ -68,8 +68,17 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 
 # 🎖 Honors and Awards
-- *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
+- *2025* Meritorious Winner (International First Prize), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
 - *2025* Outstanding Graduate, Zhejiang University of Technology
+- *2024* National First Prize & National Runner-up, National Undergraduate Smart Car Competition
+- *2024* National Third Prize, National Undergraduate Robot Competition (Underwater Robot Group)
+- *2024* Provincial First Prize, Zhejiang Provincial Undergraduate Smart Car Competition
+- *2023* National Third Prize, National Undergraduate Electronics Design Contest
+- *2023* Provincial Third Prize, Zhejiang Provincial Undergraduate Electronics Design Contest
+- *2023* Provincial Second Prize, Zhejiang Provincial Undergraduate Smart Car Competition
+- *2022* National Second Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
+- *2022* Provincial Second Prize, Zhejiang Provincial Undergraduate Physics Competition
+- *2021* National Third Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
 - *2021 - 2025* Zhejiang Provincial Government Scholarship, First-Class Outstanding Student Scholarship, and Innovation and Entrepreneurship Scholarship
 
 
