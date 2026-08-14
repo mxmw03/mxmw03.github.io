@@ -95,7 +95,7 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 
 
 # 💻 Internships
-- *2025.11 - 2026.05*, Paul G. Allen Center for Computer Science & Engineering, University of Washington, LLM Training Researcher
+- *2026.07 - 2026.09*, Zhejiang Lab, GeoGPT Research Intern (Scientific Hypothesis Generation & Deep Scientific Research)
 - *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
 
 # 🚀 Selected Projects
