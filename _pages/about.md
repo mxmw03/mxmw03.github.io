@@ -44,7 +44,7 @@ My research focuses on **large language model post-training**, **reinforcement l
 
 [**Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework**](https://doi.org/10.1007/978-981-92-3557-5_2)
 
-Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin Jiang, Xiaoqing Zhang, Jidong Weng, Xiaoyang Han \| <a href="https://doi.org/10.1007/978-981-92-3557-5_2"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://cogniload.github.io/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Project</a>
+Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin Jiang, Xiaoqing Zhang, Jidong Weng, Xiaoyang Han \| <a href="https://doi.org/10.1007/978-981-92-3557-5_2"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://cogniload.github.io/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
 </div>
 </div>
