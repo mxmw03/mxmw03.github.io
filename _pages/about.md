@@ -102,7 +102,7 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 - *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
 
 # 🚀 Selected Projects
-* **Paper Scraper Pro** | [GitHub](https://github.com/momo1443/paperscraper): Developed a pluggable, multi-source academic literature retrieval framework integrating API- and web-based sources. Built concurrent source orchestration, DOI/title-based deduplication and record merging, Chrome CDP-based full-text/PDF retrieval, and JSON/BibTeX export.
+- **Paper Scraper Pro** \| [GitHub](https://github.com/momo1443/paperscraper): Built a pluggable, multi-source literature retrieval system that unifies APIs and web sources, orchestrates concurrent searches, merges duplicate records by DOI/title, retrieves full text and PDFs via Chrome CDP, and exports curated results to JSON/BibTeX.
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
 
 # 🛠 Skills
