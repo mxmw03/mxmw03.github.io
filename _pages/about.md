@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! 👋🏻 I am Mingwei Xu, an M.S. student in Electrical and Computer Engineering at the University of Washington.
+Welcome to my homepage! 👋🏻 I am **Mingwei Xu**, an M.S. student in Electrical and Computer Engineering at the **University of Washington (UW)**.
 
-Before joining UW, I received my B.S. in Automation from Zhejiang University of Technology, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control and hardware design. After graduation, I was advised by [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at Zhejiang Lab, contributing to research on EEG signal analysis and Brain-Inspired Intelligence.
+Before joining UW, I received my B.S. in Automation from **Zhejiang University of Technology**, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control, robotics, and hardware system design. I have also worked with [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at **Zhejiang Lab** on EEG signal analysis and brain-inspired intelligence.
 
-My research focuses on **large language model post-training**, **reinforcement learning**, **multimodal large models**, and **agent systems**. I am especially interested in improving reasoning, alignment, and tool-augmented decision making in complex real-world environments. 
+My research broadly focuses on **large language model post-training**, **reinforcement learning**, **multimodal reasoning**, and **agentic AI**. I am particularly interested in understanding how learning and inference-time mechanisms can improve the **reasoning, reliability, and adaptability** of foundation models. My recent work explores reinforcement learning and self-distillation for reasoning, grounded and tool-augmented agents, multimodal test-time self-correction, and knowledge-guided AI systems for scientific discovery.
+
+More broadly, I am interested in building intelligent systems that can **reason over complex evidence, interact with external tools and environments, and continuously improve their decisions through feedback**. My long-term goal is to develop reliable and generalizable AI agents capable of solving challenging real-world and scientific problems.
 
 <span style="color: red;">I am actively seeking 27 Fall PhD opportunities!</span>
 
@@ -82,7 +84,7 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner (International First Prize), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
 - *2025* Outstanding Graduate, Zhejiang University of Technology
-- *2024* National First Prize & National Runner-up, National Undergraduate Smart Car Competition
+- *2024* National First Prize & 2nd Place Nationally, National Undergraduate Smart Car Competition
 - *2024* National Third Prize, National Undergraduate Robot Competition (Underwater Robot Group)
 - *2024* Provincial First Prize, Zhejiang Provincial Undergraduate Smart Car Competition
 - *2023* National Third Prize, National Undergraduate Electronics Design Contest
@@ -95,10 +97,12 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 
 
 # 💻 Internships
-- *2026.07 - 2026.09*, Zhejiang Lab, GeoGPT Research Intern (Scientific Hypothesis Generation & Deep Scientific Research)
+- *2026.07 - 2026.09*, Zhejiang Lab, GeoGPT Scientific Hypothesis Generation & Deep Research Intern
+- *2025.07 - 2025.09*, Zhejiang Lab, Research Intern 
 - *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
 
 # 🚀 Selected Projects
+* **Paper Scraper Pro** | [GitHub](https://github.com/momo1443/paperscraper): Developed a pluggable, multi-source academic literature retrieval framework integrating API- and web-based sources. Built concurrent source orchestration, DOI/title-based deduplication and record merging, Chrome CDP-based full-text/PDF retrieval, and JSON/BibTeX export.
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
 
 # 🛠 Skills
