@@ -82,21 +82,27 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 
 # 💡 Patents
-- M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent No. ZL 2023 2 3189247.6; M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent No. ZL 2023 2 3189248.0.
+- M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent No. ZL 2023 2 3189247.6 - M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent No. ZL 2023 2 3189248.0.
 
 # 🎖 Honors and Awards
-- *2025* Meritorious Winner, Mathematical Contest in Modeling or Interdisciplinary Contest in Modeling (MCM/ICM)
+- *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
 - *2025* Outstanding Graduate, Zhejiang University of Technology
-- *2024* National First Prize & 2nd Place, National Undergraduate Smart Car Competition
-- *2024* National Third Prize, National Undergraduate Robot Competition (Underwater Robot Group)
-- *2024* Provincial First Prize, Zhejiang Provincial Undergraduate Smart Car Competition
+- *2024* National First Prize & 2nd Place, National Undergraduate Intelligent Car Competition
+- *2024* National Third Prize, China Robot Competition and RoboCup China Open -- Underwater Track
+- *2024* Provincial First Prize, Zhejiang Provincial Undergraduate Intelligent Car Competition
 - *2023* National Third Prize, National Undergraduate Electronics Design Contest
 - *2023* Provincial Third Prize, Zhejiang Provincial Undergraduate Electronics Design Contest
 - *2023* Provincial Second Prize, Zhejiang Provincial Undergraduate Smart Car Competition
 - *2022* National Second Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
 - *2022* Provincial Second Prize, Zhejiang Provincial Undergraduate Physics Competition
 - *2021* National Third Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
-- *2021 - 2025* Zhejiang Provincial Government Scholarship, First-Class Outstanding Student Scholarship, and Innovation and Entrepreneurship Scholarship
+- *2023 - 2024* Zhejiang Provincial Government Scholarship
+- *2023 - 2024* Innovation and Entrepreneurship Scholarship 
+- *2023 - 2024* First-Class Outstanding Student Scholarship
+- *2022 - 2023* Zhejiang Provincial Government Scholarship
+- *2022 - 2023* Innovation and Entrepreneurship Scholarship 
+- *2022 - 2023* First-Class Outstanding Student Scholarship
+- *2021 - 2022* Zhejiang Provincial Government Scholarship
 
 # 💻 Internships
 - *2026.07 - 2026.09*, Zhejiang Lab, Research Intern, GeoGPT Scientific Hypothesis Generation and Deep Research 
