@@ -81,10 +81,13 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 </div>
 
+# 💡 Patents
+- M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent No. ZL 2023 2 3189247.6; M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent No. ZL 2023 2 3189248.0.
+
 # 🎖 Honors and Awards
-- *2025* Meritorious Winner (International First Prize), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
+- *2025* Meritorious Winner, Mathematical Contest in Modeling or Interdisciplinary Contest in Modeling (MCM/ICM)
 - *2025* Outstanding Graduate, Zhejiang University of Technology
-- *2024* National First Prize & 2nd Place Nationally, National Undergraduate Smart Car Competition
+- *2024* National First Prize & 2nd Place, National Undergraduate Smart Car Competition
 - *2024* National Third Prize, National Undergraduate Robot Competition (Underwater Robot Group)
 - *2024* Provincial First Prize, Zhejiang Provincial Undergraduate Smart Car Competition
 - *2023* National Third Prize, National Undergraduate Electronics Design Contest
@@ -95,17 +98,21 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 - *2021* National Third Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
 - *2021 - 2025* Zhejiang Provincial Government Scholarship, First-Class Outstanding Student Scholarship, and Innovation and Entrepreneurship Scholarship
 
-
 # 💻 Internships
-- *2026.07 - 2026.09*, Zhejiang Lab, GeoGPT Scientific Hypothesis Generation & Deep Research Intern
-- *2025.07 - 2025.09*, Zhejiang Lab, Research Intern 
+- *2026.07 - 2026.09*, Zhejiang Lab, Research Intern, GeoGPT Scientific Hypothesis Generation and Deep Research 
+- *2025.07 - 2025.09*, Zhejiang Lab, Research Intern, LLM Post-Traninig and Alignment
+- *2025.03 - 2025.06*, Hangzhou Hikvision Digital Technology Co., Ltd., Hardware Development Engineer
 - *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
 
 # 🚀 Selected Projects
-- **Paper Scraper Pro** \| [GitHub](https://github.com/momo1443/paperscraper): Built a pluggable, multi-source literature retrieval system that unifies APIs and web sources, orchestrates concurrent searches, merges duplicate records by DOI/title, retrieves full text and PDFs via Chrome CDP, and exports curated results to JSON/BibTeX.
+- **Self Distillation RLVR POPO** \| [GitHub](https://github.com/momo1443/self-distillation-rlvr-popo): A self-distillation integrated RLVR framework that learning occurs exclusively on online positive rollouts, designed for Reinforcement Learning with Verifiable Rewards (RLVR) in mathematical reasoning.
+- **Paper Scraper Pro** \| [GitHub](https://github.com/momo1443/paperscraper): Built a pluggable, multi-source literature retrieval system that unifies APIs and web sources, orchestrates concurrent searches, merges duplicate records by DOI or title, retrieves full text and PDFs via Chrome CDP and exports curated results to JSON or BibTeX.
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
+- **Reasoning Memory Workspace** \| [GitHub](https://github.com/momo1443/rwm): Built a bilingual, three-condition research platform for studying reasoning recovery across a fixed evidence task, interruption protocol, and recovery support, with an evidence-grounded AI tutor and secure participant-data collection.
 
 # 🛠 Skills
-- **Languages**: Python, C++, C, Java
-- **ML / AI**: PyTorch, Hugging Face, TRL, verl, LoRA, DeepSpeed, FSDP, vLLM, LangChain, agent systems
-- **Tools / Platforms**: Git, Linux, Docker, MATLAB, STM32, Raspberry Pi, Infineon TC264, embedded systems
+- **Programmng Languages**: Python (Pytorch, Tensorflow, Sklearn, NumPy, Scipy), MATLAB, C++, C, Java
+- **Tools**: Git, Linux, Altium Designer, FSDP, vLLM, Adobe Illustrator, Latex, Github, Microsoft Office
+- **Platforms**: STM32, Raspberry Pi, Infineon TC264, Embedded Systems
+- **Languages**: Mandarin (native), English (fluent)
+- **Reviewer**: Conference on Language Modeling (COLM 2026); International Conference on Neural Information Processing (ICONIP 2026);International Conference on Artificial Intelligence in Education (AIED 2026).
