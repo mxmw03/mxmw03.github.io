@@ -110,7 +110,7 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 - *2026.07 - 2026.09*, Zhejiang Lab, Research Intern, GeoGPT Scientific Hypothesis Generation and Deep Research 
 - *2025.07 - 2025.09*, Zhejiang Lab, Research Intern, LLM Post-Traninig and Alignment
 - *2025.03 - 2025.06*, Hangzhou Hikvision Digital Technology Co., Ltd., Hardware Development Engineer
-- *2024.07 - 2024.09*, Hangzhou Denghong Technology Co., Ltd., Automation Software Engineer
+- *2024.07 - 2024.09*, Hangzhou Closeli Technology Co., Ltd., Automation Software Engineer
 
 # 🚀 Selected Projects
 - **Self Distillation RLVR POPO** \| [GitHub](https://github.com/momo1443/self-distillation-rlvr-popo): A self-distillation integrated RLVR framework that learning occurs exclusively on online positive rollouts, designed for Reinforcement Learning with Verifiable Rewards (RLVR) in mathematical reasoning.
