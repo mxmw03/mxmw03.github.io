@@ -25,7 +25,7 @@ My research broadly focuses on **large language model post-training**, **reinfor
 
 More broadly, I am interested in building intelligent systems that can **reason over complex evidence, interact with external tools and environments, and continuously improve their decisions through feedback**. My long-term goal is to develop reliable and generalizable AI agents capable of solving challenging real-world and scientific problems.
 
-<span style="color: red;">I am actively seeking 27 Fall PhD opportunities!</span>
+<span style="color: red;">I am actively seeking 27 Fall PhD opportunities and internship opportunities!</span>
 
 
 # 🔥 News
@@ -93,10 +93,9 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 - *2023* National Third Prize, National Undergraduate Electronics Design Contest
 - *2023* Provincial Third Prize, Zhejiang Provincial Undergraduate Electronics Design Contest
 - *2023* Provincial Second Prize, Zhejiang Provincial Undergraduate Smart Car Competition
-- *2022* National Second Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
+- *2022* National Second Prize, National Undergraduate Mathematics Competition 
 - *2022* Provincial Second Prize, Zhejiang Provincial Undergraduate Physics Competition
-- *2021* National Third Prize, National Undergraduate Mathematics Competition (Non-Mathematics Category)
-- *2023 - 2024* Zhejiang Provincial Government Scholarship
+- *2021* National Third Prize, National Undergraduate Mathematics Competition 
 - *2023 - 2024* Innovation and Entrepreneurship Scholarship 
 - *2023 - 2024* First-Class Outstanding Student Scholarship
 - *2022 - 2023* Zhejiang Provincial Government Scholarship
