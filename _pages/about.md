@@ -21,9 +21,9 @@ Welcome to my homepage! 👋🏻 I am **Mingwei Xu**, an M.S. student in Electri
 
 Before joining UW, I received my B.S. in Automation from **Zhejiang University of Technology**, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control, robotics, and hardware system design. I have also worked with [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at **Zhejiang Lab** on EEG signal analysis and brain-inspired intelligence.
 
-My research broadly focuses on **large language model post-training**, **reinforcement learning**, **multimodal reasoning**, and **agentic AI**. I am particularly interested in understanding how learning and inference-time mechanisms can improve the **reasoning, reliability, and adaptability** of foundation models. My recent work explores reinforcement learning and self-distillation for reasoning, grounded and tool-augmented agents, multimodal test-time self-correction, and knowledge-guided AI systems for scientific discovery.
+My research focuses on **large language model post-training**, **reinforcement learning**, **multimodal reasoning**, and **agentic AI**. I investigate how training-time learning and inference-time reasoning can jointly improve foundation models' ability to reason, adapt, and make reliable decisions. My recent work spans positive-only and self-distilled RL for mathematical reasoning, grounded agents that retrieve and use external evidence, multimodal test-time evaluation, and knowledge-guided AI for scientific discovery.
 
-More broadly, I am interested in building intelligent systems that can **reason over complex evidence, interact with external tools and environments, and continuously improve their decisions through feedback**. My long-term goal is to develop reliable and generalizable AI agents capable of solving challenging real-world and scientific problems.
+I aim to build AI systems that turn diverse evidence into well-grounded decisions and continually improve through feedback. My long-term goal is to develop reliable, general-purpose agents that can help solve consequential real-world and scientific problems.
 
 <span style="color: red;">I am actively seeking 27 Fall PhD opportunities and internship opportunities!</span>
 
@@ -81,6 +81,8 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 </div>
 
+- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks.** M. Xu, H. Deng, H. Xu, and Y. Zhang. *International Conference on Data Analytics, Computing and Artificial Intelligence (ICDACAI)*, 2024.
+
 # 💡 Patents
 - M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent, No. ZL 2023 2 3189247.6.
 - M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent, No. ZL 2023 2 3189248.0.
@@ -115,6 +117,7 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 - **Paper Scraper Pro** \| [GitHub](https://github.com/momo1443/paperscraper): Built a pluggable, multi-source literature retrieval system that unifies APIs and web sources, orchestrates concurrent searches, merges duplicate records by DOI or title, retrieves full text and PDFs via Chrome CDP and exports curated results to JSON or BibTeX.
 - **FinTech Agentic QA** \| [GitHub](https://github.com/mxmw03/fintech-agentic-qa): Designed single-agent and multi-agent financial QA systems with an orchestrator that coordinates market, fundamentals, and sentiment agents. Integrated yfinance, local SQLite databases, Streamlit, and LLM-as-judge evaluation.
 - **Reasoning Memory Workspace** \| [GitHub](https://github.com/momo1443/rwm): Built a bilingual, three-condition research platform for studying reasoning recovery across a fixed evidence task, interruption protocol, and recovery support, with an evidence-grounded AI tutor and secure participant-data collection.
+- **Databricks Grounded Reasoning Cup**: Built a grounded reasoning agent that combines retrieval, multimodal evidence, Python, and MCP tools for evidence-grounded reasoning; ranked 2nd among four Google-sponsored teams in the University of Washington track.
 
 # 🛠 Skills
 - **Programmng Languages**: Python (Pytorch, Tensorflow, Sklearn, NumPy, Scipy), MATLAB, C++, C, Java
