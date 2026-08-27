@@ -82,7 +82,8 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 
 # 💡 Patents
-- M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent No. ZL 2023 2 3189247.6 - M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent No. ZL 2023 2 3189248.0.
+- M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent, No. ZL 2023 2 3189247.6.
+- M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent, No. ZL 2023 2 3189248.0.
 
 # 🎖 Honors and Awards
 - *2025* Meritorious Winner, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM)
