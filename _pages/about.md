@@ -81,8 +81,6 @@ Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Y
 </div>
 </div>
 
-- **Time Series Forecasting and Correlation Analysis of the New Energy Electric Vehicle Industry Using ARIMA Algorithm and LSTM Neural Networks.** M. Xu, H. Deng, H. Xu, and Y. Zhang. *International Conference on Data Analytics, Computing and Artificial Intelligence (ICDACAI)*, 2024.
-
 # 💡 Patents
 - M. Xu, "Automatic Warehouse Discharging Device for Bottle-Cultivated Edible Fungi," Chinese Utility Model Patent, No. ZL 2023 2 3189247.6.
 - M. Xu, "Enoki Mushroom Light-Shield Cover Removal Device," Chinese Utility Model Patent, No. ZL 2023 2 3189248.0.
