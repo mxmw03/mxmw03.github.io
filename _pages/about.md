@@ -19,13 +19,13 @@ redirect_from:
 
 Welcome to my homepage! 👋🏻 I am **Mingwei Xu**, an M.S. student in Electrical and Computer Engineering at the **University of Washington (UW)**.
 
-Before joining UW, I received my B.S. in Automation from **Zhejiang University of Technology**, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control, robotics, and hardware system design. I have also worked with [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at **Zhejiang Lab** on EEG signal analysis and brain-inspired intelligence.
+Before joining UW, I received my B.S. in Automation from **Zhejiang University of Technology**, where I was advised by [Prof. Fanghong Guo](https://scholar.google.com/citations?user=M-dHZGIAAAAJ&hl=en) and worked on automatic control, robotics, and hardware system design. I have also worked with [Prof. Yina Wei](https://scholar.google.com/citations?user=o6NB0FwAAAAJ&hl=en) at **Zhejiang Lab** on brain-inspired intelligence.
 
 My research focuses on **large language model post-training**, **reinforcement learning**, **multimodal reasoning**, and **agentic AI**. I investigate how training-time learning and inference-time reasoning can jointly improve foundation models' ability to reason, adapt, and make reliable decisions. My recent work spans positive-only and self-distilled RL for mathematical reasoning, grounded agents that retrieve and use external evidence, multimodal test-time evaluation, and knowledge-guided AI for scientific discovery.
 
 I aim to build AI systems that turn diverse evidence into well-grounded decisions and continually improve through feedback. My long-term goal is to develop reliable, general-purpose agents that can help solve consequential real-world and scientific problems.
 
-<span style="color: red;">I am actively seeking 27 Fall PhD opportunities and internship opportunities!</span>
+<span style="color: red;">I am actively seeking 27 Fall PhD and internship opportunities!</span>
 
 
 # 🔥 News
