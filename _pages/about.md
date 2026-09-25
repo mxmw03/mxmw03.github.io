@@ -46,6 +46,8 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 <div class='paper-box-text' markdown="1">
 
 [**Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework**](https://doi.org/10.1007/978-981-92-3557-5_2)
+*ICIC 2026 (CCF-C)*
+
 
 Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin Jiang, Xiaoqing Zhang, Jidong Weng, Xiaoyang Han \| <a href="https://doi.org/10.1007/978-981-92-3557-5_2"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://cogniload.github.io/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
@@ -56,6 +58,8 @@ Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin
 <div class='paper-box-text' markdown="1">
 
 [**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/pdf/2605.06650)
+*ICONIP 2026 (CCF-C)*
+
 
 **Mingwei Xu**, Hao Fang \| <a href="https://arxiv.org/abs/2605.06650"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
@@ -66,6 +70,8 @@ Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin
 <div class='paper-box-text' markdown="1">
 
 [**Do Joint Audio-Video Generation Models Understand Physics?**](https://arxiv.org/pdf/2605.07061)
+*NeurIPS 2026 (CCF-A)*
+
 
 Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, Jiageng Liu，Zexin Xu，Weiguo Pian，Shijian Deng，Feiyu Du，Chenming Ge，Yapeng Tian \| <a href="https://arxiv.org/abs/2605.07061"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://zijuncui.com/AV-Phys/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
@@ -76,6 +82,8 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, Jiageng Liu，Zexin Xu，Weigu
 <div class='paper-box-text' markdown="1">
 
 [**Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation**](https://www.mdpi.com/1424-8220/26/1/211)
+*Sensors 2026 (JCR Q2; IF 3.5)*
+
 
 Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Yan Hao，Fangchao Wu，Weishuyi Ruan，Ying Zhang，Zhengzhe Cui，Yina Wei \| <a href="https://www.mdpi.com/1424-8220/26/1/211"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://github.com/mxmw03/EEG_Functional_constipation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
 
