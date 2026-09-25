@@ -46,6 +46,7 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 <div class='paper-box-text' markdown="1">
 
 [**Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework**](https://doi.org/10.1007/978-981-92-3557-5_2)
+
 *ICIC 2026 (CCF-C)*
 
 
@@ -70,6 +71,7 @@ Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin
 <div class='paper-box-text' markdown="1">
 
 [**Do Joint Audio-Video Generation Models Understand Physics?**](https://arxiv.org/pdf/2605.07061)
+
 *NeurIPS 2026 (CCF-A)*
 
 
@@ -82,6 +84,7 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, Jiageng Liu，Zexin Xu，Weigu
 <div class='paper-box-text' markdown="1">
 
 [**Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation**](https://www.mdpi.com/1424-8220/26/1/211)
+
 *Sensors 2026 (JCR Q2; IF 3.5)*
 
 
