@@ -30,7 +30,7 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 
 # 🔥 News
 - *2026.09* 🎉: [CCF A] *Do Joint Audio-Video Generation Models Understand Physics?* is accepted by **NeurIPS 2026**.
-- *2026.08* 🎉: [CCF C] *Improving Reasoning Ability via On-Policy Self-Distillation for Policy Optimization from Positive Rollouts* is accepted by **ICONIP 2026**.
+- *2026.08* 🎉: [CCF C] *Improving Reasoning Ability via Asynchronous On-Policy Self-Distillation under Positive Rollouts* is accepted by **ICONIP 2026**.
 - *2026.08* 🎉: [CCF C] *Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework* is accepted by **ICIC 2026**.
 - *2026.05* 🎉: [ICML 26] *Improve Reasoning Ability by Reinforcing Only from Positive Rollouts （POPO）* is accepted by **ICML 2026 Workshop DEMO**.
 - *2025.12* 🎉: [JCR Q2] *Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation* is accepted by **Sensors**.
