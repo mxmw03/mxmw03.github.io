@@ -42,6 +42,16 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/World4Scorer.webp' alt="World4Scorer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving**](https://arxiv.org/pdf/2609.36438)
+
+Jieyuan Pei, Meiyi Lu, Sining Ang, Yubo Zhao, Zhangyi Hu, **Mingwei Xu**, Haokai Ding, Wei Li, Zihan You, Jianwei Zheng, Li Yu, Yifeng Pan, Ji Tao, Rongjunchen Zhang, Yan Wang \| <a href="https://arxiv.org/abs/2609.36438"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://github.com/World4Scorer/World4Scorer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a> \| <a href="https://world4scorer.github.io/"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Website</a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CogniLoad.png' alt="CogniLoad" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
