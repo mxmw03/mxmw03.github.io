@@ -65,7 +65,10 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub (Personal)</a></li>
+      {% endif %}
+      {% if author.github_secondary %}
+        <li><a href="https://github.com/{{ author.github_secondary }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub (Academic)</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -160,7 +163,10 @@
         <a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.github %}
-        <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+        <a href="https://github.com/{{ author.github }}" title="GitHub (Personal)" aria-label="GitHub (Personal)"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.github_secondary %}
+        <a href="https://github.com/{{ author.github_secondary }}" title="GitHub (Academic)" aria-label="GitHub (Academic)"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>
