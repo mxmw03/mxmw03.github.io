@@ -68,7 +68,7 @@ Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, **Mingwei Xu**, Mingzi Zhang, Yilin
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/POPO.png' alt="POPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**](https://arxiv.org/pdf/2605.06650)
+[**Improving Reasoning Ability via Asynchronous On-Policy Self-Distillation under Positive Rollouts**](https://arxiv.org/pdf/2605.06650)
 
 
 **Mingwei Xu**, Hao Fang \| <a href="https://arxiv.org/abs/2605.06650"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://github.com/momo1443/colm2026-POPO"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
