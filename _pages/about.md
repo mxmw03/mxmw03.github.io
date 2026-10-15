@@ -95,7 +95,7 @@ Zijun Cui, Xiulong Liu, Hao Fang, **Mingwei Xu**, Jiageng Liu，Zexin Xu，Weigu
 
 [**Task-Dependent Cortical Oscillatory Dynamics in Functional Constipation**](https://www.mdpi.com/1424-8220/26/1/211)
 
-*Sensors 2026 (JCR Q2; IF 3.5)*
+*Sensors 2026 (JCR Q2; IF 4)*
 
 
 Jianhua Li, Hui Yang, **Mingwei Xu**, Yiman Wu，Xiaokai Shou，Zhihui Huang，Yan Hao，Fangchao Wu，Weishuyi Ruan，Ying Zhang，Zhengzhe Cui，Yina Wei \| <a href="https://www.mdpi.com/1424-8220/26/1/211"><i class="fas fa-fw fa-external-link-alt" aria-hidden="true"></i> Paper</a> \| <a href="https://github.com/mxmw03/EEG_Functional_constipation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
