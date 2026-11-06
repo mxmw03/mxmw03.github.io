@@ -29,7 +29,7 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 
 
 # 🔥 News
-- *2026.11* 🎉: *HACI-I: Effects of a Human-AI Co-Intelligence Interaction Approach on Learning Outcomes, Metacognition and Higher-Order Thinking* has been accepted for presentation at the **AERA 2027 Annual Meeting (Roundtable Session)**.
+- *2026.11* 🎉: [Top Education Conference] *HACI-I: Effects of a Human-AI Co-Intelligence Interaction Approach on Learning Outcomes, Metacognition and Higher-Order Thinking* has been accepted at the **AERA 2027 Annual Meeting**.
 - *2026.09* 🎉: [CCF A] *Do Joint Audio-Video Generation Models Understand Physics?* is accepted by **NeurIPS 2026**.
 - *2026.08* 🎉: [CCF C] *Improving Reasoning Ability via Asynchronous On-Policy Self-Distillation under Positive Rollouts* is accepted by **ICONIP 2026**.
 - *2026.08* 🎉: [CCF C] *Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework* is accepted by **ICIC 2026**.
