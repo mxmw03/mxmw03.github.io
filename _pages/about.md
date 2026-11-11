@@ -43,6 +43,16 @@ I aim to build AI systems that turn diverse evidence into well-grounded decision
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PlugAndPlayVerifier.png' alt="Plug-and-Play Verifier overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Plug-and-Play Verifier for Decoupling Process Reward in Stabilizing Long-Horizon Agentic Reasoning**](https://arxiv.org/pdf/2611.10305)
+
+**Mingwei Xu**, Jieyuan Pei, Binghao Tu, Hao Fang \| <a href="https://arxiv.org/abs/2611.10305"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> \| <a href="https://github.com/momo1443/plug-and-play-verification"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/World4Scorer.webp' alt="World4Scorer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
